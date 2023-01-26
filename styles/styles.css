@@ -1,0 +1,30 @@
+.button-special{
+    background-color: #B68C5A;
+    color: white;
+}
+
+.banner-image{
+    background-image: url(/images/banner.png),url(/images/Rectangle\ 5.png);
+    height: 500px;
+    background-size: cover;
+}
+
+/* Laws */
+.image-size{
+    height: 72px;
+    width: 72px;
+}
+/* Customer reviews */
+.customer{
+    height: 70px ;
+    width: 70px;
+}
+/* FAQ */
+.faq-image{
+    height: 400px;
+}
+
+/* footer */
+.background-color{
+    background-color: black;
+}
